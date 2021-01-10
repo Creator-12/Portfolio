@@ -1,0 +1,27 @@
+.abc{
+     font-size: 2em;
+    border-style:solid;
+    border-color:blue;
+    border-width:10px;
+   /* border-top:10px solid blue;*/
+    padding:20px;
+    margin: 1.8em;
+    text-align: center;
+    color: blueviolet;
+    font-style: italic;
+    font-weight: 500;
+    font: outline;
+   
+    
+}
+.ul{
+    background-color: crimson;
+}
+.header{
+    background-color: blue;
+    color: cornsilk;
+
+}
+.header-items{
+    list-style-type:disc;
+}
